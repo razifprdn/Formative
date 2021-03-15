@@ -91,7 +91,7 @@ export default function Album() {
                       Lebron James
                     </Typography>
                     <Typography>
-                    LeBron Raymone James Sr. (/ləˈbrɒn/; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
+                    LeBron Raymone James Sr. (Born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
                     </Typography>
                   </CardContent>
                   <CardActions>
