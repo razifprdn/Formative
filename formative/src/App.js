@@ -91,7 +91,7 @@ export default function Album() {
                       Lebron James
                     </Typography>
                     <Typography>
-                      This is a media card. You can use this section to describe the content.
+                    LeBron Raymone James Sr. (/ləˈbrɒn/; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
                     </Typography>
                   </CardContent>
                   <CardActions>
