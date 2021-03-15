@@ -68,7 +68,6 @@ export default function Album() {
       <CssBaseline />
       <AppBar position="relative">
         <Toolbar>
-          <CameraIcon className={classes.icon} />
           <Typography variant="h6" color="inherit" noWrap>
             Album layout
           </Typography>
